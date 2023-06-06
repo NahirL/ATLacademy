@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con paisajes, territorios, lugares, regiones, poblaciones y los modos en que todos estos elementos se interrelacionan."
+  },
+  {
+    "category": "Música",
+    "description": "Preguntas relacionadas con géneros músicales, cantantes, bandas, etc."
+  },
+  {
+    "category": "Entretenimiento",
+    "description": "Preguntas relacionadas con programas, películas , series, etc."
+  },
+  {
+    "category": "Moda",
+    "description": "Preguntas relacionadas con diseñadores, modelos, prendas de vestir, telas y otros aspectos de la moda."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+    "category": "Ciencia",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }
+]
