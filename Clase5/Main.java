@@ -1,3 +1,5 @@
+package Clase5;
+
 import java.util.Scanner;
 
 public class Main {
@@ -69,3 +71,5 @@ public class Main {
         System.out.println("El monto depropina ha dejar es de : " + propina);
     }
 }
+
+
